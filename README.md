@@ -29,6 +29,20 @@ Atualmente, atuo na **Ekantika Consultoria**, ampliando minha experiência em an
 | Automação e desenvolvimento | Microsoft Power Platform, Power Apps e aplicações web |
 | Gestão e processos | Indicadores de desempenho, planejamento e melhoria contínua |
 
+## 🎓 Formação acadêmica
+
+- **USP/ESALQ — MBA em Data Science, Inteligência Artificial e Analytics**  
+  *Educação a distância (EAD) | 2026 – 2028*  
+  Aprofundamento em ciência de dados, inteligência artificial e analytics aplicados à análise e à tomada de decisão.
+
+- **UNIFATEA — MBA em Gestão da Qualidade, Produção e Projetos**  
+  *2023 – 2024*  
+  Formação voltada à gestão da qualidade, otimização de processos produtivos e gerenciamento de projetos.
+
+- **FATEC — Tecnólogo em Gestão da Produção Industrial**  
+  *2017 – 2020*  
+  Base acadêmica em processos industriais, planejamento, gestão da produção e eficiência operacional.
+
 ## 💼 Trajetória profissional
 
 **Ekantika Consultoria**  

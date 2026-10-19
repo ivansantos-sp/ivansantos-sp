@@ -46,17 +46,17 @@ Atualmente, atuo na **Ekantika Consultoria**, ampliando minha experiência em an
 ## 💼 Trajetória profissional
 
 **Ekantika Consultoria**  
-*Analista de Negócios | Maio de 2026 – atual*
+*Business Analytics | Maio de 2026 – atual*
 
 Atuação em análise de negócios, conectando dados, processos e tecnologia para apoiar análises e oportunidades de melhoria.
 
 **Santuário Nacional de Aparecida**  
-*BI | Julho de 2025 – Maio de 2026*
+*Business Intelligence | Julho de 2025 – Maio de 2026*
 
 Desenvolvimento profissional em Business Intelligence, análise de indicadores e construção de informações para apoiar a gestão e a tomada de decisão.
 
 **Valgroup / Valfilm**  
-*Dezembro de 2023 – Junho de 2025*
+*Analista de Manufatura e Planejamento PL | Dezembro de 2023 – Junho de 2025*
 
 Experiência em materiais, manufatura e planejamento, com evolução profissional e participação em iniciativas relacionadas a dados, indicadores e soluções com Power Platform.
 
